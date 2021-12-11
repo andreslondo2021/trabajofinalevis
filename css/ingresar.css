@@ -1,0 +1,117 @@
+body{
+
+    background-color:#FA711C;
+}
+
+
+.divprincipal{
+
+background-color:#FA711C;
+height:auto;
+
+
+}
+
+.imgusuario{
+    background-color: #ac9383;
+    width: max-contentg;
+}
+form{
+
+    width: 320px;
+    background-color:#FF6A1D ;
+    webkitborderradius:20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    height: 360px;
+}
+
+.divusuariocontra{
+    display: block;
+    background-color: #FF9B1D;
+    width: 300px;
+    height: 350px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    webkitborderradius:20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+#uname{
+   
+   display: block; 
+   resize: none;
+   background-color: #FA711C;
+   color: white;
+   padding: 10px;
+   webkitborderradius:20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -webkit-border-radius: 20px;
+  
+
+}
+#pass{
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: #FA711C;
+    color: white;
+    padding: 10px;
+    webkitborderradius:20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+     -webkit-border-radius: 20px;
+
+}
+.btnregistrar{
+    
+background-color:red;
+padding: 10px 10px 10px 10px;
+
+width: 100px;
+}
+.btningresar{
+
+   padding: 10px 10px 10px 10px;
+    background-color: white;
+    width: 100px;
+
+
+
+}
+#btningresar{
+
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    
+}
+#registrar{
+    margin-right: 40px;
+   text-decoration: none;
+   font-size: larger;
+   color: black;
+
+}
+
+.btnrecuperar{
+
+    background-color:#FF712F;
+    width: 170px;
+    padding: 10px 10px 10px 10px;
+    color: black;
+    
+}
+#recuperar{
+text-decoration: none;
+font-size: larger;
+color: black;
+}
